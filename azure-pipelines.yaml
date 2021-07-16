@@ -3,9 +3,9 @@ trigger:
     include:
       - master
       
-  paths:
-    include:
-      - rakshitamaheshwari/spring-boot/*
+  # paths:
+  #   include:
+  #     - rakshitamaheshwari/spring-boot/*
 
 pr: none
 
