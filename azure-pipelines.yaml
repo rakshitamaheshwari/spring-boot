@@ -3,9 +3,9 @@ trigger:
     include:
     - master
       
-#   paths:
-#     include:
-#       - ./*
+  paths:
+    include:
+    - ./*
 
 pr: none
 
