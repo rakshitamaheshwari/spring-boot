@@ -1,11 +1,11 @@
 trigger:
   branches:
     include:
-      - master
+     - master
       
-  # paths:
-  #   include:
-  #     - spring-boot/*
+#   paths:
+#     include:
+#       - ./*
 
 pr: none
 
